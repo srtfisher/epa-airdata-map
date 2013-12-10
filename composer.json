@@ -1,5 +1,5 @@
 {
-    "name": "srtfisher/is331-project",
+    "name": "srtfisher/epa-airdata-map",
     "require": {
         "illuminate/database": "4.0.9"
     },
