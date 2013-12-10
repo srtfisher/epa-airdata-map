@@ -1,0 +1,12 @@
+{
+    "name": "srtfisher/is331-project",
+    "require": {
+        "illuminate/database": "4.0.9"
+    },
+    "authors": [
+        {
+            "name": "Sean Fisher",
+            "email": "srtfisher@gmail.com"
+        }
+    ]
+}
